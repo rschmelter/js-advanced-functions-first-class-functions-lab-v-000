@@ -2,4 +2,5 @@
 const returnFirstTwoDrivers = function (drivers) {
   newArray = []
   newArray.push(drivers[0], drivers[1]);
+  return newArray;
 }
